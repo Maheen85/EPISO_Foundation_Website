@@ -1,6 +1,6 @@
 # EPISO_Foundation_Website
 
-this is a EPISO Foundation website 
+This is a EPISO Foundation website part of Esteem Equilathon for Volunteer Month May 2022.
 created using:
 VScode
 html
