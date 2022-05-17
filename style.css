@@ -16,7 +16,7 @@ p{
     }
 }
 
-.nav a:hover{
+.navbar .navbar-nav .nav-item::shadow{
     color: #C24225;
 }
 
